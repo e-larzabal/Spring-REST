@@ -1,9 +1,8 @@
-package com.example.Spring.REST.repository;
+package com.example.spring.rest.repository;
 
+import com.example.spring.rest.model.Blog;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
-
-import com.example.Spring.REST.model.Blog;
 
 import java.util.List;
 

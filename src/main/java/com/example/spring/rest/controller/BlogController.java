@@ -1,7 +1,7 @@
-package com.example.Spring.REST.controller;
+package com.example.spring.rest.controller;
 
-import com.example.Spring.REST.model.Blog;
-import com.example.Spring.REST.repository.BlogRespository;
+import com.example.spring.rest.model.Blog;
+import com.example.spring.rest.repository.BlogRespository;
 
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.example.Spring.REST.model;
+package com.example.spring.rest.model;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
